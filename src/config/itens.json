@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Filme de exemplo",
+    "tipo": "filme",
+    "genero": "Drama",
+    "ano": 2024,
+    "sinopse": "Filme fictício usado como exemplo.",
+    "diretor": "Diretor Exemplo",
+    "temporadas": null,
+    "nota": 8.2,
+    "imagem": "https://example.com/filme.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Série de exemplo",
+    "tipo": "serie",
+    "genero": "Comédia",
+    "ano": 2023,
+    "sinopse": "Série fictícia usada como exemplo.",
+    "diretor": "Diretora Exemplo",
+    "temporadas": 2,
+    "nota": 7.5,
+    "imagem": "https://example.com/serie.jpg"
+  }
+]
